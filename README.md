@@ -14,7 +14,7 @@ the RoboRemo app on a previously-paired phone can connect and send commands to t
 ## Capabilities
 The only setup required is to pair the phone with the robot bluetooth
 serial connection offered by this module. This module is conceived of as
-always listening for commands, and causing the robot to execute user commands
+always listening for commands, and causing the robot to execute user teleop commands
 in preference to any commands which may be issued by autonomy software. Thus it
 can act as a deadman switch or a way to drive the robot somewhere, or a way to
 manually inject perturbations or otherwise supercede autonomous operation.
